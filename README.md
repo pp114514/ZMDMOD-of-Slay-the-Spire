@@ -11,6 +11,6 @@
     1.实现40张卡牌，3件专属遗物，1瓶药水。
     2.实现了人物“zmd”。
 
-#使用原software
+# 使用原software
     1.BasicMod: https://github.com/Alchyr/BasicMod
     2.卡牌牌面制作: https://github.com/JohnnyBazooka89/StSModdingToolCardImagesCreator
