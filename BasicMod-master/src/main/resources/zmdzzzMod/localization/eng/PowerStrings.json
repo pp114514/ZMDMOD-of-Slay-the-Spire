@@ -1,0 +1,56 @@
+{
+  "${modID}:ExamPower": {
+    "NAME": "考试",
+    "DESCRIPTIONS": [
+      "进入“考试”时，获得本场战斗中打出的能力牌数量的分数 ；每打出一张技能牌获得一点分数； NL 考试 状态结束时 将所有存储的实力 转为分数 。"
+    ]
+  },
+  "${modID}:HomeworkPower": {
+    "NAME": "作业",
+    "DESCRIPTIONS": [
+      "每打出1张攻击牌可以消除1层作业 ；每消除1层作业 获得1层实力，每当作业突破五层时获得一层持续一回合的考试 。"
+    ]
+  },
+  "${modID}:ShiliPower": {
+    "NAME": "实力",
+    "DESCRIPTIONS": [
+      "考试 状态结束时，将所有存储的实力 转为分数 。"
+    ]
+  },
+  "${modID}:ScorePower": {
+    "NAME": "分数",
+    "DESCRIPTIONS": [
+      "考试 状态结束时，将所有存储的实力 转为分数 。"
+    ]
+  },
+  "${modID}:ExamFormPower": {
+    "NAME": "期末",
+    "DESCRIPTIONS": [
+      "每回合向手牌中加入一张卷 ，每回合触发一次考试 ，攻击牌双倍消除作业，实力双倍转化分数。"
+    ]
+  },
+  "${modID}:CSPower": {
+    "NAME": "计算机学位",
+    "DESCRIPTIONS": [
+      "计算机的学位"
+    ]
+  },
+  "${modID}:MechanicPower": {
+    "NAME": "机械学位",
+    "DESCRIPTIONS": [
+      "机械的学位"
+    ]
+  },
+  "${modID}:DeadLinePower": {
+    "NAME": "DeadLine",
+    "DESCRIPTIONS": [
+      "要死啦要死啦啊啊啊啊啊啊！"
+    ]
+  },
+  "${modID}:ReduceScorePower": {
+    "NAME": "分数减少",
+    "DESCRIPTIONS": [
+      "回合结束时减少对应层数的分数"
+    ]
+  }
+}

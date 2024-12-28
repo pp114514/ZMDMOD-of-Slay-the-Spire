@@ -1,0 +1,23 @@
+{
+  "${modID}:ZmdRelic": {
+    "NAME": "实力之魂",
+    "FLAVOR": "Flavor text displayed in detailed relic view.",
+    "DESCRIPTIONS": [
+      "每回合开始获得三层作业，若已有作业，改为获得一层“作业”。你初始拥有计算机学位。"
+    ]
+  },
+  "${modID}:StockRelic": {
+    "NAME": "股票",
+    "FLAVOR": "Flavor text displayed in detailed relic view.",
+    "DESCRIPTIONS": [
+      "每次进入战斗时，各有50%概率获得/失去50%已有金币"
+    ]
+  },
+  "${modID}:H2CO3Relic": {
+    "NAME": "碳酸教父",
+    "FLAVOR": "Flavor text displayed in detailed relic view.",
+    "DESCRIPTIONS": [
+      "每当你使用药水，将【可乐】填充所有空药水槽。"
+    ]
+  }
+}

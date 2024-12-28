@@ -1,0 +1,410 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description. NL Second line.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Strike": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Opo": {
+    "NAME": "一加一等于几？",
+    "DESCRIPTION": "消耗。 NL 造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": "消耗。 NL 造成 !D! 点伤害。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Roll": {
+    "NAME": "卷",
+    "DESCRIPTION": "获得并消除 !M! 点“作业”",
+    "UPGRADE_DESCRIPTION": "获得并消除 !M! 点“作业”",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:ExamForm": {
+    "NAME": "期末形态",
+    "DESCRIPTION": "每回合向手牌中加入一张卷 ，每回合开始触发1次考试 ，回合结束时实力将双倍转化为分数",
+    "UPGRADE_DESCRIPTION": "每回合向手牌中加入一张卷 ，每回合开始触发1次考试 ，回合结束时实力将双倍转化为分数",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:HavingMD": {
+    "NAME": "吃麦当劳",
+    "DESCRIPTION": "消耗。 NL 获得三点 [E] ，消耗20金币。",
+    "UPGRADE_DESCRIPTION": "消耗。 NL 获得三点 [E] ，消耗10金币。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:AllKill": {
+    "NAME": "卷卷卷卷卷！",
+    "DESCRIPTION": "消耗。 NL 翻倍作业，再减半",
+    "UPGRADE_DESCRIPTION": "翻倍作业，再减半",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Defend": {
+    "NAME": "防御",
+  "DESCRIPTION": "获得 !B! 点格挡。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:DualDegree": {
+    "NAME": "双学位",
+  "DESCRIPTION": "造成“分数”X2的伤害，转换专业。 NL 仅能在“分数”≥5时使用。",
+    "UPGRADE_DESCRIPTION": "造成“分数”X3的伤害，转换专业。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Cpp": {
+    "NAME": "C++",
+    "DESCRIPTION": "【计算机】 【消耗】 NL 抽10张牌。",
+    "UPGRADE_DESCRIPTION": "【计算机】 【消耗】 NL 抽10张牌。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Hash": {
+    "NAME": "哈希表",
+    "DESCRIPTION": "【计算机】 NL 对敌人全体造成10点伤害。",
+    "UPGRADE_DESCRIPTION": "【计算机】 NL 对敌人全体造成15点伤害。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:HaveABreak": {
+    "NAME": "摆烂",
+    "DESCRIPTION": "获得 !M! 点作业，失去 2 点实力",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点作业，失去 2 点实力",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:GetToTheLibrary": {
+    "NAME": "到（图书）馆",
+    "DESCRIPTION": "获得等同你作业层数点格挡",
+    "UPGRADE_DESCRIPTION": "获得等同你作业层数x2点格挡",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:StudyBySelf": {
+    "NAME": "自学",
+    "DESCRIPTION": "对敌方群体造成 !D! 点伤害，抽等同你“分数”个位数字的牌",
+    "UPGRADE_DESCRIPTION": "对敌方群体造成 !D! 点伤害，抽等同你“分数”的牌",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:DeadLine": {
+    "NAME": "DeadLine",
+    "DESCRIPTION": "虚无 NL 能量无限！摸一张抽一张！回合结束时死亡。",
+    "UPGRADE_DESCRIPTION": "能量无限！摸一张抽一张！每回合结束时失去10点生命。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:CivilVI": {
+    "NAME": "凌晨3点半的文明6",
+    "DESCRIPTION": "造成等同你实力数x!M!的伤害，获得2点作业",
+    "UPGRADE_DESCRIPTION": "造成等同你实力数x!M!的伤害，获得2点作业",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:BestDebater": {
+    "NAME": "最佳辩手",
+    "DESCRIPTION": "本回合内分数暂时x2",
+    "UPGRADE_DESCRIPTION": "本回合内将分数暂时x3",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:ConfigEnvironment": {
+    "NAME": "配置环境",
+    "DESCRIPTION": "【计算机】 NL 获得!M!层人工制品",
+    "UPGRADE_DESCRIPTION": "【计算机】 NL 获得!M!层人工制品",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:StressAnalysis": {
+    "NAME": "应力分析",
+    "DESCRIPTION": "【机械】，消耗。 NL 赋予目标等同实力层数的易伤和虚弱",
+    "UPGRADE_DESCRIPTION": "【机械】。 NL 赋予目标等同实力层数的易伤和虚弱",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:MIT6092": {
+    "NAME": "MIT6.092",
+    "DESCRIPTION": "【计算机】，造成!D!点伤害，实力+!M!,作业+!M!.",
+    "UPGRADE_DESCRIPTION": "【计算机】，造成!D!点伤害，实力+!M!,作业+!M!.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:FatigueAnalysis": {
+    "NAME": "疲劳分析",
+    "DESCRIPTION": "【机械】 NL 消除一半作业，并转换为自身对应层数的【力量】。",
+    "UPGRADE_DESCRIPTION": "【机械】 NL 消除一半作业，并200%转换为自身对应层数的【力量】。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:HeatTreatment": {
+  "NAME": "热处理",
+  "DESCRIPTION": "【机械】。 NL 使目标流失!M!点生命值。",
+  "UPGRADE_DESCRIPTION": "【机械】。 NL 使目标流失!M!点生命值。",
+  "EXTENDED_DESCRIPTION": [
+    "You can put more text in here.",
+    "If you need to use it for stuff.",
+    "Blizzard is a good example for this."
+  ]
+  },
+  "${modID}:ServoSystem": {
+  "NAME": "伺服系统",
+  "DESCRIPTION": "【机械】。 NL 获得【计算机】学位。",
+  "UPGRADE_DESCRIPTION": "【机械】。 NL 获得【计算机】学位。",
+  "EXTENDED_DESCRIPTION": [
+    "You can put more text in here.",
+    "If you need to use it for stuff.",
+    "Blizzard is a good example for this."
+  ]
+  },
+  "${modID}:Resonance": {
+    "NAME": "共振",
+    "DESCRIPTION": "【机械】。 NL 获得与目标相同格挡数+10。",
+    "UPGRADE_DESCRIPTION": "【机械】。 NL 获得与目标格挡数x2+10。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:SunBa": {
+    "NAME": "逛孙吧",
+    "DESCRIPTION": "造成等同目标格挡数的伤害。",
+    "UPGRADE_DESCRIPTION": "造成等同目标格挡数的伤害。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:DirectPHD": {
+    "NAME": "我是直博！",
+    "DESCRIPTION": "消耗!M!张牌。转换专业。",
+    "UPGRADE_DESCRIPTION": "消耗!M!张牌。转换专业。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:CloudStorage": {
+    "NAME": "云存储",
+    "DESCRIPTION": "【计算机】，消耗。获得当前一半HP的格挡。",
+    "UPGRADE_DESCRIPTION": "【计算机】，消耗。获得当前一半HP的格挡。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:KMP": {
+  "NAME": "KMP算法",
+  "DESCRIPTION": "【计算机】 NL 手牌全为非攻击牌才能打出。 NL 自身随机流失0~10点生命，敌人目标流失十倍。",
+  "UPGRADE_DESCRIPTION": "【计算机】 NL 手牌全为非攻击牌才能打出。 NL 自身随机流失0~10点生命，敌人目标流失十倍。",
+  "EXTENDED_DESCRIPTION": [
+    "You can put more text in here.",
+    "If you need to use it for stuff.",
+    "Blizzard is a good example for this."
+  ]
+},
+  "${modID}:Scholarships": {
+    "NAME": "奖学金",
+    "DESCRIPTION": "造成等同【分数】的伤害，并消除!M!点作业。",
+    "UPGRADE_DESCRIPTION": "造成等同【分数】的伤害，并消除!M!点作业。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:MechanicalDrive": {
+    "NAME": "机械传动",
+    "DESCRIPTION": "【机械】 NL 交换格挡和你的作业层数。",
+    "UPGRADE_DESCRIPTION": "【机械】 NL 交换格挡和你的作业层数。",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Robot": {
+    "NAME": "顾长机启人",
+    "DESCRIPTION": "【机械】 NL 获得一张【创造性AI】,本回合耗能为0。",
+    "UPGRADE_DESCRIPTION": "【机械】 NL 获得一张【创造性AI】,本回合耗能为0。",
+    "EXTENDED_DESCRIPTION": [
+      "深思熟虑长远发展，启发他人智慧。"
+    ]
+  },
+  "${modID}:BucketSort": {
+    "NAME": "桶排序",
+    "DESCRIPTION": "【计算机】 NL 消耗1张牌，消除!M!点作业。",
+    "UPGRADE_DESCRIPTION": "【计算机】 NL 消耗1张牌，消除!M!点作业。",
+    "EXTENDED_DESCRIPTION": [
+      "深思熟虑长远发展，启发他人智慧。"
+    ]
+  },
+  "${modID}:Robot2": {
+    "NAME": "孤掌集其刃",
+    "DESCRIPTION": "将等同你【分数】的【小刀】加入手牌",
+    "UPGRADE_DESCRIPTION": "将等同你【分数】的【小刀】加入手牌",
+    "EXTENDED_DESCRIPTION": [
+      "百分百空手接白刃。"
+    ]
+  },
+  "${modID}:OxygenNot": {
+    "NAME": "缺氧真好玩！",
+    "DESCRIPTION": "对敌人全体造成!D!点伤害，自身获得!M!层中毒",
+    "UPGRADE_DESCRIPTION": "对敌人全体造成!D!点伤害，自身获得!M!层中毒",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Presentation": {
+    "NAME": "Presentation",
+    "DESCRIPTION": "造成等同分数的伤害，消除所有作业",
+    "UPGRADE_DESCRIPTION": "造成等同分数的伤害，消除所有作业",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:Fanding": {
+    "NAME": "反钉选择号",
+    "DESCRIPTION": "获得!M!点格挡，消除50%作业",
+    "UPGRADE_DESCRIPTION": "获得!M!点格挡，消除50%作业",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "${modID}:SuperMechanicalDrive": {
+    "NAME": "失落机械传动",
+    "DESCRIPTION": "【机械】 NL 交换格挡和你生命值 NL （完全没用）",
+    "UPGRADE_DESCRIPTION": "【机械】 NL 格挡值视为5倍，交换格挡和你的生命值",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Boss": {
+    "NAME": "老大",
+    "DESCRIPTION": "获得!M!层【多层护甲】，消除!M!点作业",
+    "UPGRADE_DESCRIPTION": "获得!M!层【多层护甲】，消除!M!点作业",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Recycle": {
+    "NAME": "废物利用",
+    "DESCRIPTION": "消除!M!点作业，获得其33%的 [E]",
+    "UPGRADE_DESCRIPTION": "消除!M!点作业，获得其33%的 [E]",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:DontStarve": {
+    "NAME": "玩饥荒",
+    "DESCRIPTION": "抽!M!张牌，然后赋予你【子弹时间】",
+    "UPGRADE_DESCRIPTION": "抽!M!张牌，然后赋予你【子弹时间】",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:SA": {
+    "NAME": "模拟退火算法",
+    "DESCRIPTION": "【计算机】 NL 随机造成!D!点伤害x【分数】",
+    "UPGRADE_DESCRIPTION": "【计算机】 NL 随机造成!D!点伤害x【分数】",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:CV": {
+    "NAME": "计算机视觉",
+    "DESCRIPTION": "【计算机】 NL 进入神格，将所有【计算机】牌加入手牌",
+    "UPGRADE_DESCRIPTION": "【计算机】 NL 进入神格，将所有【计算机】牌加入手牌",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  }
+}

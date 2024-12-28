@@ -1,0 +1,14 @@
+{
+  "${modID}:zmd": {
+    "NAMES": [
+      "周明德",
+      "a good boy"
+
+    ],
+    "TEXT": [
+      "初出茅庐的密院双学位学生，每天要迎战数不清的作业和考试。 NL 初始具有实力之魂和股票。",
+      " NL Text displayed when smacking the heart. The next one is used for the Vampires event. Usually you just change the last bit.",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~basic~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  }
+}
