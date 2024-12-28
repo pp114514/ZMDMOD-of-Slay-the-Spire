@@ -23,4 +23,8 @@
     
     2.卡牌卡面制作: https://github.com/JohnnyBazooka89/StSModdingToolCardImagesCreator
  
+ # 致谢
+
+    尤其感谢赴美留学的XinJie Ben给予我的ChatGPT4o使用权，没有他的帮助就不会有如此丰富的素材。
+    
  
